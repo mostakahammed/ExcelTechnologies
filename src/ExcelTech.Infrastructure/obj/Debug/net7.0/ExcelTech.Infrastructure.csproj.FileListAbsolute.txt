@@ -1,0 +1,17 @@
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Infrastructure\bin\Debug\net7.0\ExcelTech.Infrastructure.deps.json
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Infrastructure\bin\Debug\net7.0\ExcelTech.Infrastructure.dll
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Infrastructure\bin\Debug\net7.0\ExcelTech.Infrastructure.pdb
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Infrastructure\obj\Debug\net7.0\ExcelTech.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Infrastructure\obj\Debug\net7.0\ExcelTech.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Infrastructure\obj\Debug\net7.0\ExcelTech.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Infrastructure\obj\Debug\net7.0\ExcelTech.Infrastructure.AssemblyInfo.cs
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Infrastructure\obj\Debug\net7.0\ExcelTech.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Infrastructure\obj\Debug\net7.0\ExcelTech.Infrastructure.dll
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Infrastructure\obj\Debug\net7.0\refint\ExcelTech.Infrastructure.dll
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Infrastructure\obj\Debug\net7.0\ExcelTech.Infrastructure.pdb
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Infrastructure\obj\Debug\net7.0\ref\ExcelTech.Infrastructure.dll
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Infrastructure\bin\Debug\net7.0\ExcelTech.Infrastructure.runtimeconfig.json
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Infrastructure\obj\Debug\net7.0\ExcelTech.Infrastructure.genruntimeconfig.cache
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Infrastructure\bin\Debug\net7.0\ExcelTech.Domain.dll
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Infrastructure\bin\Debug\net7.0\ExcelTech.Domain.pdb
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Infrastructure\obj\Debug\net7.0\ExcelTech.Infrastructure.csproj.CopyComplete

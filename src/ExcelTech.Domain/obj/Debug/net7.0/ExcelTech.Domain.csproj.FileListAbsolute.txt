@@ -1,0 +1,12 @@
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Domain\bin\Debug\net7.0\ExcelTech.Domain.deps.json
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Domain\bin\Debug\net7.0\ExcelTech.Domain.dll
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Domain\bin\Debug\net7.0\ExcelTech.Domain.pdb
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Domain\obj\Debug\net7.0\ExcelTech.Domain.csproj.AssemblyReference.cache
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Domain\obj\Debug\net7.0\ExcelTech.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Domain\obj\Debug\net7.0\ExcelTech.Domain.AssemblyInfoInputs.cache
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Domain\obj\Debug\net7.0\ExcelTech.Domain.AssemblyInfo.cs
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Domain\obj\Debug\net7.0\ExcelTech.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Domain\obj\Debug\net7.0\ExcelTech.Domain.dll
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Domain\obj\Debug\net7.0\refint\ExcelTech.Domain.dll
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Domain\obj\Debug\net7.0\ExcelTech.Domain.pdb
+C:\Users\Mostak Ahammed\Documents\ExcelTech\ExcelTech.Domain\obj\Debug\net7.0\ref\ExcelTech.Domain.dll
